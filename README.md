@@ -1,6 +1,8 @@
 # selenium_eobuwie_netguru
 Tests for interview in Netguru
 
+# Java + Selenium WebDriver + TestNG + Maven
+
 **1.Requirements to run tests:**
 - Google Chrome v.88.0.4324.96
 - Apache Maven v3.6.3
