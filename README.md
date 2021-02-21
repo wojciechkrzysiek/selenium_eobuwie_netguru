@@ -17,7 +17,7 @@ You should edit testng.xml file to provide data for tests
 <parameter name="password" value="admin123"/>
 <!-- END -->
 
-**3.Choose test to run (testng.xml file). **
+**3.Choose test to run (testng.xml file).**
 
 There are two tests to run:
 
