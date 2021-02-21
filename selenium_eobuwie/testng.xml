@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test name="selenium_eobuwie">
+        <!-- HERE ADD PARAMETERS TO TESTS -->
+        <parameter name="name" value="Adam"/>
+        <parameter name="lastname" value="Kowalski"/>
+        <parameter name="email" value="adamnowak1@wp.pl"/>
+        <parameter name="password" value="admin123"/>
+        <!-- END -->
+        <classes>
+            <!-- Registration account test -->
+            <class name="tests.RegisterAccountTest"/>
+            <!-- Login user test - uncomment below line to run test -->
+            <!-- <class name="tests.LoginUserTest"/> -->
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,6 @@
+page_objects/LoginPage.class
+tests/RegisterAccountTest.class
+base_classes/BasePage.class
+base_classes/BaseTest.class
+tests/LoginUserTest.class
+page_objects/RegistrationPage.class
